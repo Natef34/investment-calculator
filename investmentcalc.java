@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class investmentcalc
+public class investmentCalc
 {
 	public static void main (String args[])
 		{
